@@ -481,11 +481,11 @@ ul.top_icon li a {
 
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
-     color: #308409;
+     color: #f24404;
 }
 
 .menu-area-main li.active a {
-     color: #308409;
+     color: #f24404;
 }
 
 .right_cart_section {
@@ -1587,7 +1587,7 @@ input[type="radio"] .styled:checked+label::after {
      font-size: 46px;
      line-height: 55px;
      font-weight: bold;
-     color: #308409;
+     color: #f24404;
 }
 .banner-main .carousel-caption p {
      color: #0c0404;
@@ -1605,13 +1605,13 @@ input[type="radio"] .styled:checked+label::after {
      margin-right: 10px;
 }
 .btn-primary:hover {
-     background: #308409;
+     background: #f24404;
 }
 .img-box figure {
      margin: 0;
 }
 .img-box figure img {
-     box-shadow: #308409 0px 0px 0px 0px;
+     box-shadow: #f24404 0px 0px 0px 0px;
 }
 .plants {
      padding: 90px 0px;
@@ -1638,7 +1638,7 @@ input[type="radio"] .styled:checked+label::after {
      margin: 10px auto;
      width: 50%;
      height: 6px;
-     background: #308409;
+     background: #f24404;
 }
 .titlepage span {
      color: #141012;
@@ -1827,7 +1827,7 @@ img.zoom {
      margin: 10px auto;
      width: 283px;
      height: 6px;
-     background: #308409;
+     background: #f24404;
 }
 .Gallery .Gallery-box:hover .hoverle {
      position: absolute;
@@ -1838,7 +1838,7 @@ img.zoom {
      text-align: center;
      display: flex;
      justify-content: center;
-     background: #308409de;
+     background: #f24404de;
      align-items: center;
 }
 .Gallery .Gallery-box:hover .hoverle a {
@@ -1878,14 +1878,14 @@ img.zoom {
      margin: 10px auto;
      width: 25%;
      height: 6px;
-     background: #308409;
+     background: #f24404;
      right: 0;
 }
 .map_section figure {
      margin: 0px;
 }
 form {
-     background: #308409;
+     background: #f24404;
      padding: 35px 30px;
 }
 .map_section figure img {
@@ -1986,7 +1986,7 @@ ul.link li a {
      font-size: 17px;
 }
 ul.link li a:hover {
-     color: #308409;
+     color: #f24404;
 }
 .pdn-top-30 {
      padding-top: 35px;
@@ -2015,7 +2015,7 @@ ul.location_icon span {
      font-weight: 400;
 }
 .copyright {
-     background: #308409;
+     background: #f24404;
      padding: 20px 0px 20px 0;
 }
 .copyright p {
@@ -2084,7 +2084,7 @@ ul.location_icon span {
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-     background: #308409;
+     background: #f24404;
      color: #fff;
 }
 #main_slider a.carousel-control-prev {
